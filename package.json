@@ -1,0 +1,25 @@
+{
+  "name": "read-files-from-dhp",
+  "version": "1.0.0",
+  "description": "demo read  file from disk in nodejs",
+  "main": "1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dauphuong198x/read-files-from-dhp.git"
+  },
+  "keywords": [
+    "file-operation"
+  ],
+  "author": "dauphuong198x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dauphuong198x/read-files-from-dhp/issues"
+  },
+  "homepage": "https://github.com/dauphuong198x/read-files-from-dhp#readme",
+  "dependencies": {
+    "file-operations-dhp": "^1.0.2"
+  }
+}
